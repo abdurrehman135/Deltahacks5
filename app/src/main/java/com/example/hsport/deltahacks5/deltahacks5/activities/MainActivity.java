@@ -1,7 +1,9 @@
-package com.example.hsport.deltahacks5;
+package com.example.hsport.deltahacks5.deltahacks5.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.hsport.deltahacks5.R;
 
 public class MainActivity extends AppCompatActivity {
 
